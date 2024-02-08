@@ -1,0 +1,10 @@
+.counter{
+   display: flex;
+    color: #da0f0f;
+    float: left;
+}
+.ph{
+    display: flex;
+    float: left;
+    margin-left: 30%;
+}
